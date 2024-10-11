@@ -1,0 +1,16 @@
+C:\Users\Kenn\source\repos\employeeApplication\employeeApplication\bin\Debug\net8.0-windows\employeeApplication.exe
+C:\Users\Kenn\source\repos\employeeApplication\employeeApplication\bin\Debug\net8.0-windows\employeeApplication.deps.json
+C:\Users\Kenn\source\repos\employeeApplication\employeeApplication\bin\Debug\net8.0-windows\employeeApplication.runtimeconfig.json
+C:\Users\Kenn\source\repos\employeeApplication\employeeApplication\bin\Debug\net8.0-windows\employeeApplication.dll
+C:\Users\Kenn\source\repos\employeeApplication\employeeApplication\bin\Debug\net8.0-windows\employeeApplication.pdb
+C:\Users\Kenn\source\repos\employeeApplication\employeeApplication\obj\Debug\net8.0-windows\employeeApplication.FrmEmployeeDatabase.resources
+C:\Users\Kenn\source\repos\employeeApplication\employeeApplication\obj\Debug\net8.0-windows\employeeApplication.csproj.GenerateResource.cache
+C:\Users\Kenn\source\repos\employeeApplication\employeeApplication\obj\Debug\net8.0-windows\employeeApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenn\source\repos\employeeApplication\employeeApplication\obj\Debug\net8.0-windows\employeeApplication.AssemblyInfoInputs.cache
+C:\Users\Kenn\source\repos\employeeApplication\employeeApplication\obj\Debug\net8.0-windows\employeeApplication.AssemblyInfo.cs
+C:\Users\Kenn\source\repos\employeeApplication\employeeApplication\obj\Debug\net8.0-windows\employeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\Kenn\source\repos\employeeApplication\employeeApplication\obj\Debug\net8.0-windows\employeeApplication.dll
+C:\Users\Kenn\source\repos\employeeApplication\employeeApplication\obj\Debug\net8.0-windows\refint\employeeApplication.dll
+C:\Users\Kenn\source\repos\employeeApplication\employeeApplication\obj\Debug\net8.0-windows\employeeApplication.pdb
+C:\Users\Kenn\source\repos\employeeApplication\employeeApplication\obj\Debug\net8.0-windows\employeeApplication.genruntimeconfig.cache
+C:\Users\Kenn\source\repos\employeeApplication\employeeApplication\obj\Debug\net8.0-windows\ref\employeeApplication.dll
